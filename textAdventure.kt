@@ -1,4 +1,6 @@
 fun main() {
+//Brenda Izaguirre
+//4/14/2023
     var currentLocation = "dusty castle room"
 
     while (true) {
